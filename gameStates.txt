@@ -5,10 +5,3 @@ minta4.txt
 minta5.txt
 minta6.txt
 minta7.txt
-minta8.txt
-minta9.txt
-minta10.txt
-minta11.txt
-minta12.txt
-minta13.txt
-minta14.txt
