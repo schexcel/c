@@ -1,0 +1,5 @@
+Jóska;Pesta
+O;_;_;_
+X;X;X;X
+O;O;O;_
+X;O;X;_
